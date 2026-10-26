@@ -1,0 +1,13 @@
+[
+ {
+  "arm": "gp",
+  "seed": 3,
+  "step": 400000,
+  "fid": 5.296729301700736,
+  "num_gen": 50000,
+  "loss": null,
+  "n_fail": null,
+  "fid_sec": 3385.535619735718,
+  "note": "from ema ckpt"
+ }
+]
